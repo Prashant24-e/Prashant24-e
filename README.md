@@ -54,7 +54,7 @@ AI-powered Q&A chatbot built using:
 
 **Python • Streamlit • LangChain • Google Gemini**
 
-🔗 [View Repository](https://github.com/Prashant24-e/genai-chatbot)
+🔗 [View Repository](https://github.com/Prashant24-e/GenAi_ChatBot)
 
 ---
 
